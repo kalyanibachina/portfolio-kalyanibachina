@@ -15,6 +15,7 @@ function Home(){
                         </div>
                         <div className="mb-2 d-flex flex-column align-items-center">
                             <h3 className="fs-4 fw-bolder mb-0">Kalyani Bachina</h3>
+                            <p className="mb-0 fw-bold"><small>(she/her)</small></p>
                             <p><small>Software Engineer</small></p>
                         </div>
                         <div className="mb-3">
