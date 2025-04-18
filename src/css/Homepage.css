@@ -4,12 +4,17 @@
     font-family: "Open sans", sans-serif;
 }
 
+
+    /* background-color: #f0f3f4; */
 body{
-    background-color: #f0f3f4;
+    background-image: url("Background.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
+
 .box-area{
-    width: 800px;
+    width: 950px;
     height: 430px;
 }
 
